@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: David Oseguera Montiel
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# David Oseguera Montiel
+Veterinary epidemiologist
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -22,7 +22,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+One health, zoonosis, Antimicrobial resistance, livelihoods, animal production systems.
 
 
 ## Education
